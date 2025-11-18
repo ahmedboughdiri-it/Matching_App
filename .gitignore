@@ -55,3 +55,8 @@ Set-Content -Path .gitignore -Value $gitignoreContent
 
 # Verify the content
 Get-Content .gitignore
+android/app/google-services.json
+
+android/app/google-services.json
+
+firebase.json
